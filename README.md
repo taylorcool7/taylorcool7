@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taylorcool7
+- 👋 Hi, I’m @Brendon Sanyahawa
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... SE
 - 💞️ I’m looking to collaborate on ... Game creation
